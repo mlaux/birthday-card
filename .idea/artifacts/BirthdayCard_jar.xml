@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BirthdayCard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BirthdayCard_jar</output-path>
+    <root id="archive" name="BirthdayCard.jar">
+      <element id="module-output" name="BirthdayCard" />
+    </root>
+  </artifact>
+</component>
